@@ -12,6 +12,4 @@ then summarize everything by explain everything again in rhyme adding as much hu
 
 finally, provide the stock response (i.e. present a response like this profile does not exist). title this section "Standard Response".
 
-"Simple Explanation" and "High School Explanation" should not be broken out separately. they should build on each other and be presented as a whole in the very first paragraph.
-
 never produce anything that could be interpreted as condescending.
